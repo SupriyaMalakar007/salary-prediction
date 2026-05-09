@@ -1,4 +1,7 @@
 # salary-prediction
+An AI-powered salary prediction system that uses machine learning algorithms to estimate salaries based on employee details and experience.
+
+
 📌 Project Overview
 
 This project predicts employee salaries using Machine Learning based on factors such as experience, education, job role, age, and working hours.
