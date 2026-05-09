@@ -2,12 +2,12 @@
 An AI-powered salary prediction system that uses machine learning algorithms to estimate salaries based on employee details and experience.
 
 
-📌 Project Overview
+# 📌 Project Overview
 
 This project predicts employee salaries using Machine Learning based on factors such as experience, education, job role, age, and working hours.
 The model is trained using a dataset and provides salary predictions for new input data.
 
-🚀 Features
+# 🚀 Features
 
 Predict salary using ML algorithms
 Data preprocessing and cleaning
@@ -16,7 +16,7 @@ User input salary prediction
 Simple and easy-to-use interface
 
 
-🛠 Technologies Used
+# 🛠 Technologies Used
 
 Python
 Pandas
@@ -26,7 +26,7 @@ Matplotlib
 Seaborn
 Streamlit / Flask (if used)
 
-📂 Dataset
+# 📂 Dataset
 The dataset contains employee information such as:
 
 Age
@@ -38,7 +38,7 @@ Salary
 
 Dataset source: Kaggle / Custom Dataset
 
-⚙️ Machine Learning Algorithm
+# ⚙️ Machine Learning Algorithm
 
 Algorithms used in this project:
 
@@ -48,7 +48,7 @@ Decision Tree Regressor
 
 The best-performing model is selected based on accuracy.
 
-📊 Project Workflow
+# 📊 Project Workflow
 Data Collection
 Data Cleaning
 Exploratory Data Analysis
