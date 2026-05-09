@@ -5,12 +5,16 @@ This project predicts employee salaries using Machine Learning based on factors 
 The model is trained using a dataset and provides salary predictions for new input data.
 
 🚀 Features
+
 Predict salary using ML algorithms
 Data preprocessing and cleaning
 Model training and evaluation
 User input salary prediction
 Simple and easy-to-use interface
+
+
 🛠 Technologies Used
+
 Python
 Pandas
 NumPy
@@ -18,8 +22,8 @@ Scikit-learn
 Matplotlib
 Seaborn
 Streamlit / Flask (if used)
-📂 Dataset
 
+📂 Dataset
 The dataset contains employee information such as:
 
 Age
